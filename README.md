@@ -20,40 +20,32 @@ A mobile assistant for farmers that provides agriculture and market insights usi
 
 ### Overview
 
-A Flutter App , but with a blend of Machine Learning in it and intergrated with a whole lot of features which makes it probably the best of the apps I have worked so far. 
+This mobile application provides customized expert assistance and market insights to farmers through AI and mandi integration.
+ 
+## Key Features
+ 
+- **Conversational AI** - Farmers can interact with a conversational agent powered by large language models like GPT-3 to get tailored agriculture recommendations.
+ 
+- **Image Recognition** - Using deep learning, farmers can diagnose plant diseases by uploading images of affected crops.
+ 
+- **Realtime Mandi Prices** - Farmers can check current commodity prices across mandis in India to optimize sales and get fair prices.
+ 
+- **Personalized Insights** - Combining conversational AI, computer vision, and mandi data, the app provides location-specific guidance on crops, diseases, prices, and more.
+ 
+- **Intuitive Interface** - A user-friendly interface makes it easy for farmers to get advice through conversation, image uploads, and interactive mandi price charts.
 
-So basically I along with a bunch of seniors from my college have built this "KisanSeva" app - a one stop for Farmers of India who are facing a whole lot issues nowadays .
-
-App has multiple features - 
-1- Secured Authentication (via OTP)
-2- Multilingual for efficient use 
-2- Rent tools / farming essentials
-3- Plant disease detection
-4- Crop prediction 
-5- Smart connect to prevent third party person take advantage 
-6- Know the Weather
-7- Feed 
-8- Toll free number/ expert assistance
-
-The best thing about the app is its built in 10 days !!! 
-
-### _Challenges we ran into_
-_The most challenging tasks we faced for this project were tflite implementation,using pandas,numpy and scikit learn to predict crop which is yet not too accurate_.
 
 ### Technology used
 
 * Flutter
-* Tensorflow
-* Weather API
-* Firebase
-* Firestore
+* Flask
+* PyTorch
+* Open Government Data API
 * Cloud Messaging
-* Firebase Authentication
 * Rest APIs
-* Google Teachable Machine
 * Pandas
 * Numpy
-* Real-time Database
+* Ngrok
 
 ### Screenshots/Demo Video
 
