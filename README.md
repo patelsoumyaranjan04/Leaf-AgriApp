@@ -2,17 +2,9 @@
 A mobile assistant for farmers that provides agriculture and market insights using AI conversations for recommendations, deep learning crop image diagnosis, realtime mandi commodity price to optimize sales, and location-specific guidance on crops, diseases, and pricing through an interface for conversation, image upload, and interactive charts.
 
 
-# KisanSeva - one stop for Indian farmers
-
-This is the official code repository for _Code Monks_ . This _simple, light weight mobile application built in Flutter_ was developed during Accelathon 2.0
-the online the annual inter college hackathon and also awarded Certificate of Excellence at IFPPC conducted by Sikkim Manipal University.
-
 ### _Code Monks_
 
-* _Utkarsh Agarwal_
-* _Satyam Kumar_
-* _Akarsh Simha_
-* _Anusha Deshmukh_
+* _Soumya Ranjan Patel_
 
 ### Important Links
 
@@ -20,7 +12,7 @@ the online the annual inter college hackathon and also awarded Certificate of Ex
 
 [Presentation of our idea](https://www.canva.com/design/DAEODJfeMvQ/qXX7OivLJ0kkQ7KPmvaJ-w/edit)
 
-[Kaggle Dataset Used for Plant disease detection](https://www.kaggle.com/vipoooool/new-plant-diseases-dataset)
+[Kaggle Dataset Used for Plant disease detection](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
 [ML model for crop prediction written on Colab ](https://colab.research.google.com/drive/17jMLUXK8p6B48CAPW_8DZANxF_CB3jDY?authuser=1)
 
