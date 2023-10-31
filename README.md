@@ -59,6 +59,21 @@ This mobile application provides customized expert assistance and market insight
 <img src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG_20210421_084044.jpg" width="250" title="hover text">
 
 
+## Getting Started
+
+Follow these instructions to set up and run the project locally.
+
+### Prerequisites
+
+- Flutter and Dart are required to build and run the app. Install them by following the official documentation: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install).
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/your-repo.git
+   cd your-repo
 
 
 ### Usage
