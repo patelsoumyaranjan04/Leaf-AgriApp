@@ -10,13 +10,10 @@ A mobile assistant for farmers that provides agriculture and market insights usi
 
 [Demo video link](https://drive.google.com/drive/folders/1_QH_19TQNeMMl10CCHcl1uMIb5t8LOny)
 
-[Presentation of our idea](https://www.canva.com/design/DAEODJfeMvQ/qXX7OivLJ0kkQ7KPmvaJ-w/edit)
+[Presentation of the idea](https://www.canva.com/design/DAEODJfeMvQ/qXX7OivLJ0kkQ7KPmvaJ-w/edit)
 
 [Kaggle Dataset Used for Plant disease detection](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
-[ML model for crop prediction written on Colab ](https://colab.research.google.com/drive/17jMLUXK8p6B48CAPW_8DZANxF_CB3jDY?authuser=1)
-
-[APK (Just in case application doesn't run locally)](https://drive.google.com/file/d/1vAfO7OQnAB9hZbjp01v64lLL70S90_34/view?usp=sharing)
 
 ### Overview
 
@@ -71,7 +68,7 @@ _In order to run the application on your local device make sure to have flutter 
 [Flutter setup video](https://www.youtube.com/watch?v=fDnqXmLSqtg "Video")
 
 
-### Installation
+### Installation and SetUp
 
 1. Clone the repository to your local machine:
 
@@ -90,23 +87,17 @@ _In order to run the application on your local device make sure to have flutter 
 4. OpenAI API set up.
    Go to the file path `Leaf-AgriApp/leaf-app/lib/secrets.dart' and decalre your API key
    ```
-   const openAiApiKey = 'your open API key';
+   const openAiApiKey = 'your OpenAI API key';
+### Using Ngrok
+For testing purposes, you can use Ngrok to expose your Flask server to the internet for real-time testing with your Flutter app. Follow the Ngrok [documentation](https://ngrok.com/docs/getting-started/) to set up and configure it for your Flask server.
 ### Usage
 
-_In order to run the application on your local device make sure to have flutter environment setup on your local device_
-
-[Flutter setup video](https://www.youtube.com/watch?v=fDnqXmLSqtg "Video")
-
-_Clone the repo and open it in any text editor - VS Code for example_
+_Start the Flask server_
+```
+pyhton app.py
+```
 
 _Connect your mobile in USB Debug mode_
 
 _write in terminal "flutter run"_
 
-### Tracks used
-_Agriculture :-  Since farmers are facing a lot of issues and there is protest going on which has worsened the situation so we decided to come up with a smart solution to the problem by including features like Rent tools and Smart connect to the Mandi which will surely propel the growth of farmers._
-
-### Proposed add on features
- 
-To remove the issue of providing statical data in crop prediction feature we are thinking of integrating the app with an IOT model where perhaps a Node MCU model will collect all data like soil pH , Rainfall etc and send it to the real-time database and using the ML model built in the Goggle Collab we can predict the crop.
-Also in Feed feature we didn't get any API which would provide news solely related to Agro industry so we are working on that.
