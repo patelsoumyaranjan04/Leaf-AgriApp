@@ -86,6 +86,11 @@ _In order to run the application on your local device make sure to have flutter 
 3. [Open Government Data](https://data.gov.in/resource/current-daily-price-various-commodities-various-markets-mandi) API set up.
    Go to the file path `Leaf-AgriApp/flask-server/app.py' and decalre your API key
    ```
+   price_api_key="your api key"
+4. OpenAI API set up.
+   Go to the file path `Leaf-AgriApp/leaf-app/lib/secrets.dart' and decalre your API key
+   ```
+   const openAiApiKey = 'your open API key';
 ### Usage
 
 _In order to run the application on your local device make sure to have flutter environment setup on your local device_
