@@ -65,17 +65,27 @@ Follow these instructions to set up and run the project locally.
 
 ### Prerequisites
 
-- Flutter and Dart are required to build and run the app. Install them by following the official documentation: [Flutter Installation Guide](https://flutter.dev/docs/get-started/install).
+
+_In order to run the application on your local device make sure to have flutter environment setup on your local device_
+
+[Flutter setup video](https://www.youtube.com/watch?v=fDnqXmLSqtg "Video")
+
 
 ### Installation
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/patelsoumyaranjan04/Leaf-AgriApp.git
    cd your-repo
 
+2. Install the required Python packages.
+   ```bash
+   pip install -r requirements.txt
 
+3. [Open Government Data](https://data.gov.in/resource/current-daily-price-various-commodities-various-markets-mandi) API set up.
+   Go to the file path `Leaf-AgriApp/flask-server/app.py' and decalre your API key
+   ```
 ### Usage
 
 _In order to run the application on your local device make sure to have flutter environment setup on your local device_
