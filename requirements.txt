@@ -1,0 +1,5 @@
+flask==1.1.2
+requests==2.25.1
+torch==1.7.1
+torchvision==0.8.2
+pillow==8.0.1
