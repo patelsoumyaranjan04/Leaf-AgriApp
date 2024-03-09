@@ -90,7 +90,7 @@ For testing purposes, you can use Ngrok to expose your Flask server to the inter
 
 _Start the Flask server_
 ```
-pyhton app.py
+python app.py
 ```
 
 _Connect your mobile in USB Debug mode_
@@ -102,7 +102,6 @@ This project was a collaborative effort for Smart India Hackathon 2023.
 
 - [@Aum Atman Behera](https://github.com/678aum)
 - [@Bidhan Ranjan Bhoi](https://github.com/777BRB)
-
 - [@Krushna S. Baral](https://github.com/krishnasbaral)
 - [@Manas Ranjan Sethi](https://github.com/Manas2k3)
 - [@Satyajeet Patra](https://github.com/SatyajeetPatra-11)
