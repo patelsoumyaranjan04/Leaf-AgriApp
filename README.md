@@ -98,6 +98,7 @@ _Connect your mobile in USB Debug mode_
 _write in terminal "flutter run"_
 
 ## Authors
+This project was a collaborative effort for Smart India Hackathon 2023.
 
 - [@Aum Atman Behera](https://github.com/678aum)
 - [@Bidhan Ranjan Bhoi](https://github.com/777BRB)
