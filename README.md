@@ -28,7 +28,7 @@ This mobile application provides customized expert assistance and market insight
 - **Intuitive Interface** - A user-friendly interface makes it easy for farmers to get advice through conversation, image uploads, and interactive mandi price charts.
 
 
-### Technology used
+### Technologies used
 
 * Flutter
 * Flask
