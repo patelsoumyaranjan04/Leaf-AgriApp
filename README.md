@@ -97,3 +97,13 @@ _Connect your mobile in USB Debug mode_
 
 _write in terminal "flutter run"_
 
+## Authors
+
+- [@Aum Atman Behera](https://github.com/678aum)
+- [@Bidhan Ranjan Bhoi](https://github.com/777BRB)
+
+- [@Krushna S. Baral](https://github.com/krishnasbaral)
+- [@Manas Ranjan Sethi](https://github.com/Manas2k3)
+- [@Satyajeet Patra](https://github.com/SatyajeetPatra-11)
+- [@Soumya Ranjan Patel](https://www.github.com/patelsoumyaranjan04)
+
