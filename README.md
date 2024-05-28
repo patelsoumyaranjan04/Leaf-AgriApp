@@ -4,9 +4,8 @@ A mobile assistant for farmers that provides agriculture and market insights usi
 
 ### Important Links
 
-[Demo video link](https://drive.google.com/drive/folders/1_QH_19TQNeMMl10CCHcl1uMIb5t8LOny)
+[Demo video link](https://youtu.be/2d825CIaHVQ)
 
-[Presentation of the idea](https://www.canva.com/design/DAEODJfeMvQ/qXX7OivLJ0kkQ7KPmvaJ-w/edit)
 
 [Kaggle Dataset Used for Plant disease detection](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
 
