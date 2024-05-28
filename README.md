@@ -40,16 +40,16 @@ This mobile application provides customized expert assistance and market insight
 * Numpy
 * Ngrok
 
-### Screenshots/Demo Video
+### Screenshots
 
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG-20201130-WA0055.jpg" width="250" title="hover text">
+<img src="https://github.com/patelsoumyaranjan04/Leaf-AgriApp/blob/main/Snapshots/S1.jpeg" width="250" title="hover text">
 
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/s.jpg" width="250" title="hover text">
+<img src="https://github.com/patelsoumyaranjan04/Leaf-AgriApp/blob/main/Snapshots/S2.jpeg" width="250" title="hover text">
 
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG_20210421_083435.jpg" width="250" title="hover text">
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/s.png" width="250" title="hover text">
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/s%20(1).jpg" width="250" title="hover text">
-<img src="https://github.com/UtkarshA135/KisanSeva/blob/master/IMG_20210421_084044.jpg" width="250" title="hover text">
+<img src="https://github.com/patelsoumyaranjan04/Leaf-AgriApp/blob/main/Snapshots/S3.jpeg" width="250" title="hover text">
+<img src="https://github.com/patelsoumyaranjan04/Leaf-AgriApp/blob/main/Snapshots/S4.jpeg" width="250" title="hover text">
+<img src="https://github.com/patelsoumyaranjan04/Leaf-AgriApp/blob/main/Snapshots/S5.jpeg" width="250" title="hover text">
+<img src="https://github.com/patelsoumyaranjan04/Leaf-AgriApp/blob/main/Snapshots/S6.jpeg" width="250" title="hover text">
 
 
 ## Getting Started
